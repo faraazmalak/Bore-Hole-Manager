@@ -1,0 +1,5 @@
+Enhancements
+-Modularized version
+
+Bugs
+-Soil color and soil strength do not display on graphical output.Only soil type is displayed
